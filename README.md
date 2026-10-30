@@ -1,2 +1,1 @@
-# SetupKit-releases
-SetupKit 的官方发行与下载
+<https://github.com/ZxIngNG/SetupKit-releases/releases/latest/download/setup-kit-win-x64.zip>
